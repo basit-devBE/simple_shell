@@ -3,7 +3,7 @@
 /**
  * count_repchar - counts the repetitions of a char
  * @input: input string
- * @u: index
+ * @u: the index
  * Return: repetitions
  */
 int count_repchar(char *input, int u)
