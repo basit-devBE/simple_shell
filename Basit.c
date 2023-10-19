@@ -3,7 +3,7 @@
  * theLIne - assigns the line var for get_line
  * @lptr: Buffer that store the input str
  * @buffer: str that is been called to line
- * @i: size of line
+ * @i: the size of line
  * @k: size of buffer
  */
 void theLIne(char **lptr, size_t *i, char *buffer, size_t k)
