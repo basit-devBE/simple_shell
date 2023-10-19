@@ -22,7 +22,7 @@ Welcome to our Shell Project! This project, developed by Mohammed Basit Abdul an
 
 ## Getting Started
 
-To get started with Our ALX Shell Project, follow these steps:
+To get started with Our ALX Shell Project, follow the steps:
 
 1. Clone the repository to your local machine:
 ```
