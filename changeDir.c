@@ -1,7 +1,7 @@
 #include "ichigos.h"
 /**
  * Change_Dir - changes to the parent directory
- * @dsh: data relevant (environ)
+ * @dsh: the data relevant (environ)
  * Return: no return
  */
 void Change_Dir(ichigos_shell *dsh)
