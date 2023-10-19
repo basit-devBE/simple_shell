@@ -4,7 +4,7 @@
  * copy_s - copies infor betwixt void pointers.
  * @newptr:the destination pointer.
  * @ptr: the source pointer.
- * @size: size of new pointer.
+ * @size: the size of new pointer.
  * Return: no return.
  */
 
