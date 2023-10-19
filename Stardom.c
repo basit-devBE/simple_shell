@@ -2,7 +2,7 @@
 /**
  * Stardom - duplicates a str in the heap memory.
  * @s: Type char pointer str
- * Return: duplicated str
+ * Return: the duplicated str
  */
 char *Stardom(const char *s)
 {
