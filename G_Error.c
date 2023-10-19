@@ -2,7 +2,7 @@
 /**
  * G_ERROR - calls the error according the builtin, syntax or permission
  * @dsh: data structure that contains arguments
- * @eva: error value
+ * @eva: the error value
  * Return: error
  */
 int G_ERROR(ichigos_shell *dsh, int eva)
