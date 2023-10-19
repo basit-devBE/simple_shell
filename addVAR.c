@@ -1,7 +1,7 @@
 #include "ichigos.h"
 
 /**
- * add_rvar_node - add up a variable
+ * add_rvar_node - adds up a variable
  * at the end of a dame list.
  * @head: head of linked list.
  * @lvar: the length of variable.
