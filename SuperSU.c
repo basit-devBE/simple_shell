@@ -1,7 +1,7 @@
 #include "ichigos.h"
 /**
  * check_dir - checks ":" if is in the current directory.
- * @path: type char pointer char.
+ * @path: the type char pointer char.
  * @m: type int pointer of index.
  * Return: 1 if the path is searchable in the cd, 0 otherwise.
  */
